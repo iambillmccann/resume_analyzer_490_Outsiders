@@ -25,4 +25,4 @@ jja55@njit.edu
 
 For local setup see SETUP.md 
 
-
+FYI. Sprint 1 UI is not styled.
